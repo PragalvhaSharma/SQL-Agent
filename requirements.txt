@@ -1,0 +1,8 @@
+python-dotenv
+langchain_openai
+langchain_community
+langchain_core
+langchain_community
+langchain_experimental
+psycopg2-binary
+google_search_results
