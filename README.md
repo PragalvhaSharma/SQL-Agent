@@ -59,9 +59,6 @@ pip install -r requirements.txt
    Create a `.env` file in the project directory with the following variables:
    ```env
    OPENAI_API_KEY=your_openai_api_key
-   DATABASE_URL=your_postgresql_database_url
-   GOOGLE_API_KEY=your_google_api_key
-   GOOGLE_CX=your_google_custom_search_engine_id
    ```
 
 2. **Database Configuration**:
